@@ -1,4 +1,9 @@
-# groundedkit
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://groundedkit.github.io/brand/groundedkit-wordmark-dark.png">
+    <img alt="groundedkit" src="https://groundedkit.github.io/brand/groundedkit-wordmark-light.png" height="40">
+  </picture>
+</h1>
 
 **Grounded, production-ready starter kits for Java developers.**
 
@@ -6,7 +11,7 @@ Each kit is a complete, tested application you can clone, run in minutes, and bu
 
 ## Projects
 
-### [Docbound](https://github.com/groundedkit/docbound)
+### [<picture><source media="(prefers-color-scheme: dark)" srcset="https://groundedkit.github.io/brand/docbound-wordmark-dark.png"><img alt="Docbound" src="https://groundedkit.github.io/brand/docbound-wordmark-light.png" height="28"></picture>](https://github.com/groundedkit/docbound)
 
 A production-ready RAG ("chat with your documents") starter for Spring Boot. Answers stream in, cite the exact passages they came from, and say "not found" instead of guessing. It runs on your machine with [Ollama](https://ollama.com): no API keys, and your documents never leave it.
 
