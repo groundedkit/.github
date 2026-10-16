@@ -27,7 +27,7 @@ docker compose up --build
 
 Full setup for macOS, Windows and Linux is in the [README](https://github.com/groundedkit/docbound#quick-start). Licensed under Apache 2.0.
 
-**Docbound Pro** is planned: login and per-user documents, OpenAI and Anthropic models, chat history, usage tracking, and production deploy guides. [Watch the repository](https://github.com/groundedkit/docbound) to hear when it's released.
+**Docbound Pro** is planned: login and per-user documents, OpenAI and Anthropic models, saved chat history, usage tracking, and production deploy guides. [Get one email when it launches](https://groundedkit.github.io/#pro).
 
 ## Links
 
