@@ -5,7 +5,7 @@
   </picture>
 </h1>
 
-**Grounded, production-ready starter kits for Java developers.**
+**Grounded, production-ready software: open starter kits for Java developers, and the products we build ourselves.**
 
 Each kit is a complete, tested application you can clone, run in minutes, and build your own product on.
 
@@ -41,6 +41,16 @@ AI tutoring that grades every step. A student uploads their school syllabus and 
 - **Built with:** Next.js, FastAPI, Celery, PostgreSQL + pgvector, Cloudflare Workers AI and Groq
 
 Try it at [edify.adityasrivastavaa.me](https://edify.adityasrivastavaa.me). The source is private.
+
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://groundedkit.github.io/brand/namaste-wordmark-dark.png"><img alt="Namaste" src="https://groundedkit.github.io/brand/namaste-wordmark-light.png" height="28"></picture>
+
+Private, fast, everyday messaging. One-to-one and group chats, voice notes, media, voice and video calls, status updates, and linked devices, all end-to-end encrypted by default. Built for entry-level phones and patchy networks, launching first in India with English and 10 Indian languages.
+
+- **Encrypted by design:** a single Rust crypto core on every platform, per-device keys, and servers that only ever see ciphertext
+- **On-device extras:** Scam Shield warnings, a simplified Saathi mode for older family members, voice-note translation across Indian languages, and private catch-up summaries, without weakening encryption
+- **Built with:** Rust, React Native, React + WASM, Tauri, WebRTC, PostgreSQL and Redis
+
+Namaste is in pre-alpha planning and not ready for real conversations. The source is private.
 
 ## Links
 
